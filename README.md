@@ -1,4 +1,4 @@
-#Path Visualizer v1
+# Path Visualizer v1
 ### Try this yourself.
 ### [Path Finding Visualizer](https://yashguptaji.github.io/PathVisualizer/)
 
