@@ -1,4 +1,5 @@
-# Try this yourself.
+#Path Visualizer v1
+### Try this yourself.
 ### [Path Finding Visualizer](https://yashguptaji.github.io/PathVisualizer/)
 
 # Getting Started with Create React App
