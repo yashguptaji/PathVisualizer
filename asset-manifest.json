@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/PathVisualizer/static/css/main.75d418ba.chunk.css",
-    "main.js": "/PathVisualizer/static/js/main.70ae60da.chunk.js",
-    "main.js.map": "/PathVisualizer/static/js/main.70ae60da.chunk.js.map",
+    "main.css": "/PathVisualizer/static/css/main.9d520eae.chunk.css",
+    "main.js": "/PathVisualizer/static/js/main.50b47215.chunk.js",
+    "main.js.map": "/PathVisualizer/static/js/main.50b47215.chunk.js.map",
     "runtime-main.js": "/PathVisualizer/static/js/runtime-main.635dae11.js",
     "runtime-main.js.map": "/PathVisualizer/static/js/runtime-main.635dae11.js.map",
     "static/js/2.c1a2baa1.chunk.js": "/PathVisualizer/static/js/2.c1a2baa1.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.ccd1f303.chunk.js": "/PathVisualizer/static/js/3.ccd1f303.chunk.js",
     "static/js/3.ccd1f303.chunk.js.map": "/PathVisualizer/static/js/3.ccd1f303.chunk.js.map",
     "index.html": "/PathVisualizer/index.html",
-    "static/css/main.75d418ba.chunk.css.map": "/PathVisualizer/static/css/main.75d418ba.chunk.css.map",
+    "static/css/main.9d520eae.chunk.css.map": "/PathVisualizer/static/css/main.9d520eae.chunk.css.map",
     "static/js/2.c1a2baa1.chunk.js.LICENSE.txt": "/PathVisualizer/static/js/2.c1a2baa1.chunk.js.LICENSE.txt",
     "static/media/Node.css": "/PathVisualizer/static/media/weight.bbee2b2e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.635dae11.js",
     "static/js/2.c1a2baa1.chunk.js",
-    "static/css/main.75d418ba.chunk.css",
-    "static/js/main.70ae60da.chunk.js"
+    "static/css/main.9d520eae.chunk.css",
+    "static/js/main.50b47215.chunk.js"
   ]
 }
