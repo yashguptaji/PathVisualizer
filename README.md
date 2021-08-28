@@ -1,11 +1,8 @@
 # Path Visualizer v1
 ### Try this yourself [here.](https://yashguptaji.github.io/PathVisualizer/)
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+Dijkstra's Algorithm is the father of pathfinding algorithmsm, it guarantees the shortest path.
 
 In the project directory, you can run:
 
