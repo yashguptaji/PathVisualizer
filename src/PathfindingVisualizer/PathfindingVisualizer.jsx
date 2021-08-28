@@ -253,9 +253,9 @@ export default class PathfindingVisualizer extends Component {
           href="#"
           onClick={() => window.location.reload(false)}
         >
-          Reset <br />
-          Time : {distanceToBeTraveled}
-          <small> [1 Block = 1 Time = 1 Weight]</small>
+          Reset Grid <br />
+          Weighted Distance : {distanceToBeTraveled}
+          {/* <small> [1 Block = 1 Time = 1 Weight]</small> */}
         </h2>
       );
     } else if (topMessage === "Dijkstra OP") {
