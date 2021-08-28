@@ -25,7 +25,7 @@ export default class PathfindingVisualizer extends Component {
       mouseIsPressed: false,
       topMessage: "Dijkstra Algorithm",
       weight: 1,
-      changeWeight: false,
+      changeWeight: true,
       distanceToBeTraveled: 0,
     };
   }
@@ -269,7 +269,7 @@ export default class PathfindingVisualizer extends Component {
     let textBox = (
       <div className="textBox">
         <div className="weightContainer">
-          <label htmlFor="quantity">Toggle or Set Weight </label>
+          <label htmlFor="quantity">Toggle/Set Weight </label>
 
           <input
             type="number"
